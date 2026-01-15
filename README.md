@@ -17,7 +17,7 @@ This Power BI dashboard analyzes pricing elasticity, revenue performance and con
 
 ## Files Included
 - `pricing_strategy_dashboard.pbix` - Main dashboard file
-- `/screenshots` - Dashboard visuals
+- `/assets` - Dashboard visuals
 
 ## Features
 - Price Elasticity Analysis
